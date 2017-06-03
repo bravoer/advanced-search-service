@@ -1,0 +1,18 @@
+{
+  "name": "advanced-search-service",
+  "version": "0.1.0",
+  "description": "Microservice to get a list of UUIDS for resources matching an advanced search query that cannot be expressed in mu-cl-resources",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bravoer/advanced-search-service.git"
+  },
+  "keywords": [
+    "mu-semtech"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "author": "Erika Pauwels <erika.pauwels@gmail.com>",
+  "license": "MIT"
+}
